@@ -1,4 +1,4 @@
-# 3D-Printed-Donut
+# 🍩 3D-Printed-Donut
 Blender to Creality K1C (3D Printing)
 
 This project documents my first 3D printing project: a stylised donut modeled in Blender, prepared using the 3D Print Toolbox add-on, sliced with Creality Print, and printed on a Creality K1C using Hyper PLA filament.
@@ -56,7 +56,7 @@ Steps taken:
 
 | Blender Preview | Slicer Import | Print Preview | Final Print |
 |-----------------|---------------|----------------|--------------|
-| ![](./screenshots/blender_model_view.png) | ![](./screenshots/creality_slicer_loaded.png) | ![](./screenshots/creality_slicer_preview.png) | ![](/Users/christophertheys/Desktop/Donut_3D_Print.jpeg) |
+| ![](./screenshots/blender_model_view.png) | ![](./screenshots/creality_slicer_loaded.png) | ![](./screenshots/creality_slicer_preview.png) | ![/Users/christophertheys/Desktop/Donut_3D_Print.jpeg](/Users/christophertheys/Desktop/Donut_3D_Print.jpeg) |
 
 ---
 
