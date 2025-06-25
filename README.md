@@ -56,7 +56,8 @@ Steps taken:
 
 | Blender Preview | Slicer Import | Print Preview | Final Print |
 |-----------------|---------------|----------------|--------------|
-| ![](./screenshots/blender_model_view.png) | ![](./screenshots/creality_slicer_loaded.png) | ![](./screenshots/creality_slicer_preview.png) | ![/Users/christophertheys/Desktop/Donut_3D_Print.jpeg](/Users/christophertheys/Desktop/Donut_3D_Print.jpeg) |
+| ![](./screenshots/blender_model_view.png) | ![](./screenshots/creality_slicer_loaded.png) | ![](./screenshots/creality_slicer_preview.png) | ![Donut_3D_Print](https://github.com/user-attachments/assets/c1f012cb-446e-4c4d-87ca-a02a5e55bedd)|
+
 
 ---
 
