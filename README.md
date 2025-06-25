@@ -1,4 +1,4 @@
-# 🍩 3D-Printed-Donut
+# 🍩 3D Printed Donut
 Blender to Creality K1C (3D Printing)
 
 This project documents my first 3D printing project: a stylised donut modeled in Blender, prepared using the 3D Print Toolbox add-on, sliced with Creality Print, and printed on a Creality K1C using Hyper PLA filament.
@@ -43,7 +43,7 @@ Steps taken:
 ## 🖨️ Printing Workflow
 
 1. Imported `.stl` into Creality Print
-2. Scaled and positioned on print bed (if necessary)
+2. Scaled and positioned on print bed
 3. Enabled **supports** touching buildplate
 4. Used 15% infill with Grid pattern
 5. Sliced to `.gcode` and saved to USB
@@ -67,7 +67,7 @@ Steps taken:
 - Always run mesh validation (3D Print Toolbox saved me!)
 - Applying all transforms (`Ctrl + A`) in Blender is **critical**
 - Exporting modifiers is important — leave **Apply Modifiers** on
-- Green support in slicer preview doesn’t always mean “needed” — visually check overhangs
+- Green support in slicer preview doesn’t always mean “needed”
 - PLA doesn’t need glue on a clean PEI bed but a brim helps
 
 ---
